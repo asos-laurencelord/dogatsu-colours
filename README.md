@@ -1,2 +1,2 @@
 # dogatsu-colours
-A special WP plugin from Dogatsu. Pick colours in the customizer and get very specific CSS added to your `wp_head`
+A WP plugin that adds a colour picker to the customizer screen to add very specific CSS added to your `wp_head`
